@@ -6,15 +6,43 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 
 ---
 
-## 🔧 Tech I’ve Been Working With  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)  
+## 🔧 Tech I’ve Been Working With
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-FFB703?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-2A9D8F?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-DDBEA9?style=for-the-badge&logo=python&logoColor=000000" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Django-6B705C?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/CSS3-A5A58D?style=for-the-badge&logo=css3&logoColor=000000" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-B7B7A4?style=for-the-badge&logo=postgresql&logoColor=000000" alt="SQL" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-CB997E?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-2A9D8F?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
+    </td>
+  </tr>
+</table> 
 
 ---
 
@@ -39,7 +67,24 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 
 ---
 
-## 🤝 Let’s Connect  
-[![Portfolio](https://img.shields.io/badge/Portfolio-kylemims.dev-blue?style=for-the-badge&logo=react)](https://www.kylemims.dev) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kyle-mims)  
-[![Email](https://img.shields.io/badge/Email-kylemims88%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kylemims88@gmail.com)  
+## 🤝 Let’s Connect
+
+<div align="center">
+
+<a href="https://www.kylemims.dev">
+  <img src="https://img.shields.io/badge/Portfolio-kylemims.dev-2A9D8F?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kylemims-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6B705C?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:kylemims88@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kylemims88%40gmail.com-CB997E?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/kylemims">
+  <img src="https://img.shields.io/badge/GitHub-kylemims-B7B7A4?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+</a>
+
+</div>
