@@ -10,39 +10,21 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-FFB703?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-2A9D8F?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-DDBEA9?style=for-the-badge&logo=python&logoColor=000000" alt="Python" />
-    </td>
+    <td><img src="https://img.shields.io/badge/JavaScript-FFB703?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /></td>
+    <td><img src="https://img.shields.io/badge/React-2A9D8F?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" /></td>
+    <td><img src="https://img.shields.io/badge/Python-DDBEA9?style=for-the-badge&logo=python&logoColor=000000" alt="Python" /></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Django-6B705C?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/CSS3-A5A58D?style=for-the-badge&logo=css3&logoColor=000000" alt="CSS3" />
-    </td>
+    <td><img src="https://img.shields.io/badge/Django-6B705C?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" /></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-A5A58D?style=for-the-badge&logo=css3&logoColor=000000" alt="CSS3" /></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-B7B7A4?style=for-the-badge&logo=postgresql&logoColor=000000" alt="SQL" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-CB997E?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-2A9D8F?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
-    </td>
+    <td><img src="https://img.shields.io/badge/SQL-B7B7A4?style=for-the-badge&logo=postgresql&logoColor=000000" alt="SQL / Postgres" /></td>
+    <td><img src="https://img.shields.io/badge/Git-CB997E?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" /></td>
+    <td><img src="https://img.shields.io/badge/Figma-2A9D8F?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" /></td>
   </tr>
-</table> 
+</table>
 
 ---
 
@@ -52,11 +34,22 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 - Building projects that combine my love for **design, branding, and code**  
 
 ---
+## ⭐ Pinned Projects
 
-## 📊 GitHub Stats  
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylemims&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemims&layout=compact&theme=tokyonight)  
+- **Pick-a-Park** — responsive trip planner with layered, real-life filters (weather feel, activities, camping).  
+  _React, JS, NPS API_ • [Repo](https://github.com/kylemims/pick-a-park) • [Live](https://www.kylemims.dev/projects/pick-a-park)
 
+- **Punk Pizza** — inventory-aware ordering flow with friendly UI and stateful cart.  
+  _React, JS_ • [Repo](https://github.com/kylemims/punk-pizza) • [Live](https://www.kylemims.dev/projects/punk-pizza)
+
+- **Portfolio** — fast, minimal, earthy palette with tasteful motion.  
+  _React / Vite_ • [Repo](https://github.com/kylemims/portfolio) • [Live](https://www.kylemims.dev)
+## 📊 GitHub Stats
+
+<!-- card theme tuned to your palette -->
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylemims&show_icons=true&hide_border=true&bg_color=0E1116&title_color=2A9D8F&text_color=B7B7A4&icon_color=FFB703&ring_color=2A9D8F)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemims&layout=compact&hide_border=true&bg_color=0E1116&title_color=2A9D8F&text_color=B7B7A4)
 ---
 
 ## 🎯 A Bit More About Me  
