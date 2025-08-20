@@ -40,6 +40,6 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 ---
 
 ## 🤝 Let’s Connect  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://www.kylemims.dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-kylemims.dev-blue?style=for-the-badge&logo=react)](https://www.kylemims.dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kyle-mims)  
 [![Email](https://img.shields.io/badge/Email-kylemims88%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kylemims88@gmail.com)  
