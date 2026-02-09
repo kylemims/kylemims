@@ -37,10 +37,10 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 ## ⭐ Pinned Projects
 
 - **Pick-a-Park** — responsive trip planner with layered, real-life filters (weather feel, activities, camping).  
-  _React, JS, NPS API_ • [Repo](https://github.com/kylemims/pick-a-park) • [Live](https://www.kylemims.dev/projects/pick-a-park)
+  _React, JS, NPS API_ • [Repo](https://github.com/kylemims/pick-a-park) • [Live](https://www.pickapark.kylemims.dev)
 
 - **Punk Pizza** — inventory-aware ordering flow with friendly UI and stateful cart.  
-  _React, JS_ • [Repo](https://github.com/kylemims/punk-pizza) • [Live](https://www.kylemims.dev/projects/punk-pizza)
+  _React, JS_ • [Repo](https://github.com/kylemims/punk-pizza) • [Live](https://www.pizza.kylemims.dev)
 
 - **Portfolio** — fast, minimal, earthy palette with tasteful motion.  
   _React / Vite_ • [Repo](https://github.com/kylemims/portfolio) • [Live](https://www.kylemims.dev)
