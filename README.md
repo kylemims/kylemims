@@ -28,38 +28,6 @@ Now, I’m channeling that experience into building **clean, user-focused apps**
 
 ---
 
-## 🌱 Currently Learning & Building  
-- Wrapping up my **capstone project** at NSS  
-- Exploring **full-stack product design & development**  
-- Building projects that combine my love for **design, branding, and code**  
-
----
-## ⭐ Pinned Projects
-
-- **Pick-a-Park** — responsive trip planner with layered, real-life filters (weather feel, activities, camping).  
-  _React, JS, NPS API_ • [Repo](https://github.com/kylemims/pick-a-park) • [Live](https://www.pickapark.kylemims.dev)
-
-- **Punk Pizza** — inventory-aware ordering flow with friendly UI and stateful cart.  
-  _React, JS_ • [Repo](https://github.com/kylemims/punk-pizza) • [Live](https://www.pizza.kylemims.dev)
-
-- **Portfolio** — fast, minimal, earthy palette with tasteful motion.  
-  _React / Vite_ • [Repo](https://github.com/kylemims/portfolio) • [Live](https://www.kylemims.dev)
-## 📊 GitHub Stats
-
-<!-- card theme tuned to your palette -->
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylemims&show_icons=true&hide_border=true&bg_color=0E1116&title_color=2A9D8F&text_color=B7B7A4&icon_color=FFB703&ring_color=2A9D8F)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemims&layout=compact&hide_border=true&bg_color=0E1116&title_color=2A9D8F&text_color=B7B7A4)
----
-
-## 🎯 A Bit More About Me  
-- 🎸 Former touring musician turned developer  
-- 🎨 Big on **design and branding** — it’s where creativity meets logic  
-- 🐶 Dog dad to two Frenchies  
-- 💡 Always chasing ways to make tech feel more **human**  
-
----
-
 ## 🤝 Let’s Connect
 
 <div align="center">
